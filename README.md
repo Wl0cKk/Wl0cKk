@@ -26,6 +26,7 @@
             </div>
             <div style="flex: 1;">
                 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+                <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40" />
