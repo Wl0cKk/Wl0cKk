@@ -46,8 +46,12 @@
         </div>
     </div>
 </div>
-</br>
+</br></br>
 <div align="center" style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/uladzimir-kandratsiuk-b77505295/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25"/></a>
-    <a href="https://leetcode.com/u/amnesia10/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=FFA116" alt="LeetCode logo" title="LeetCode" height="25"/></a>
+    <a href="https://www.linkedin.com/in/uladzimir-kandratsiuk-b77505295/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30"/></a>
+    <a href="https://leetcode.com/u/amnesia10/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=FFA116" alt="LeetCode logo" title="LeetCode" height="30"/></a>
+    <a href="https://gist.github.com/Wl0cKk" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/GitHub%20Gist-282C34?logo=github&logoColor=white" alt="GitHub Gist logo" title="GitHub Gist" height="30" /></a>
 </div>
