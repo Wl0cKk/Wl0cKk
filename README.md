@@ -31,13 +31,13 @@
                 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" />
+                <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwBIzoVFfmX3NPoSIrbGhmCXb4KDgbnZKA1zFltVc9tcpOjELPV1U37sGNf3l0W_gzCs&usqp=CAU" alt="Insomnia" width="40" height="40" />
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/600px-Wireshark_icon_new.png?20230509085415" alt="Wireshark" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="40" height="40" />
-                <img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/images/optimized/rev-c608007/www.tshirtgeek.com.br/wp-content/uploads/2021/09/ELE013-600x600.jpg" alt="ESP32" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime" width="40" height="40" />
                 <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="40" height="40" />
