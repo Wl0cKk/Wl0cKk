@@ -57,7 +57,7 @@
 </div>
 </br>
 
-### [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/?envType=daily-question&envId=2024-08-21)
+### [664. Strange Printer](https://leetcode.com/problems/strange-printer/submissions/1362957726/?envType=daily-question&envId=2024-08-21)
 ```ruby
 # @param {String} s
 # @return {Integer}
