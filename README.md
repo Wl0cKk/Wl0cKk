@@ -55,3 +55,23 @@
     <a href="https://gist.github.com/Wl0cKk" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/GitHub%20Gist-282C34?logo=github&logoColor=white" alt="GitHub Gist logo" title="GitHub Gist" height="30" /></a>
 </div>
+</br>
+
+# [664. Strange Printer](https://leetcode.com/problems/strange-printer/description/?envType=daily-question&envId=2024-08-21)
+```ruby
+# @param {String} s
+# @return {Integer}
+def strange_printer(s)
+    dp = Array.new(101) { Array.new(101, -1) }
+    pr = ->(i, j) {
+        return 1 if i == j
+        return 0 if i > j
+        return dp[i][j] if dp[i][j] != -1
+        return pr.(i + 1, j) if s[i] == s[i + 1]
+        return pr.(i, j - 1) if s[j] == s[j - 1] || s[i] == s[j]
+        ans = 2147483647
+        (i + 1..j).each { |k| ans = [ans, pr.(i, k - 1) + pr.(k, j)].min }
+        dp[i][j] = ans
+    }
+    return pr.(0, s.length - 1)
+end
