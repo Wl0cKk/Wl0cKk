@@ -57,21 +57,20 @@
 </div>
 </br>
 
-### [664. Strange Printer](https://leetcode.com/problems/strange-printer/submissions/1362957726/?envType=daily-question&envId=2024-08-21)
+### [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/submissions/1365206461/)
 ```ruby
-# @param {String} s
-# @return {Integer}
-def strange_printer(s)
-    dp = Array.new(101) { Array.new(101, -1) }
-    pr = ->(i, j) {
-        return 1 if i == j
-        return 0 if i > j
-        return dp[i][j] if dp[i][j] != -1
-        return pr.(i + 1, j) if s[i] == s[i + 1]
-        return pr.(i, j - 1) if s[j] == s[j - 1] || s[i] == s[j]
-        ans = 2147483647
-        (i + 1..j).each { |k| ans = [ans, pr.(i, k - 1) + pr.(k, j)].min }
-        dp[i][j] = ans
+# @param {String} expression
+# @return {String}
+def fraction_addition(expression)
+    gcd = ->(a, b) { a, b = b, a % b while b != 0; return a } # Euclid's GCD
+    num_sum, denom = 0, 1
+    expression.scan(/[-+]?\d+\/\d+/).each { |f|
+        num, d = f.split('/').map(&:to_i)
+        num_sum = num_sum * d + num * denom
+        denom *= d
+        g = gcd.(num_sum.abs, denom)
+        num_sum /= g
+        denom /= g
     }
-    return pr.(0, s.length - 1)
+    return num_sum.to_s + '/' + denom.to_s
 end
