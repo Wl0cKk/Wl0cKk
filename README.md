@@ -57,20 +57,17 @@
 </div>
 </br>
 
-### [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/submissions/1365206461/)
+### [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/submissions/1367017433/?envType=daily-question&envId=2024-08-24)
 ```ruby
-# @param {String} expression
+# @param {String} n
 # @return {String}
-def fraction_addition(expression)
-    gcd = ->(a, b) { a, b = b, a % b while b != 0; return a } # Euclid's GCD
-    num_sum, denom = 0, 1
-    expression.scan(/[-+]?\d+\/\d+/).each { |f|
-        num, d = f.split('/').map(&:to_i)
-        num_sum = num_sum * d + num * denom
-        denom *= d
-        g = gcd.(num_sum.abs, denom)
-        num_sum /= g
-        denom /= g
-    }
-    return num_sum.to_s + '/' + denom.to_s
+def nearest_palindromic(n)
+    n_long = n.to_i
+    return "9" if n == "11"
+    return (n_long - 1).to_s if n_long < 10 || (n[0] == '1' && n[1..-1] == '0' * (n.length - 1))
+    l = n.length
+    prefix = n[0...((l + 1) / 2)]
+    return [ (prefix.to_i - 1).to_s, prefix, (prefix.to_i + 1).to_s ]
+    .map { |p| (p + p[0...(l / 2)].reverse).to_i }
+    .reject { |m| m == n_long }.min_by { |m| [ (n_long - m).abs, m ] }.to_s
 end
