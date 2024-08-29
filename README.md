@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A690B8,100:BF90F3&section=header&reversal=true"/>
+</p>
 <div align="center">
     <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
         <div style="display: flex; flex-wrap: wrap; width: 400px;">
@@ -69,3 +72,7 @@ def nearest_palindromic(n)
     .map { |p| (p + p[0...(l / 2)].reverse).to_i }
     .reject { |m| m == n_long }.min_by { |m| [ (n_long - m).abs, m ] }.to_s
 end
+```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A690B8,100:BF90F3&section=footer&reversal=true"/>
+</p>
