@@ -2,60 +2,58 @@
     <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
         <div style="display: flex; flex-wrap: wrap; width: 400px;">
             <div style="flex: 1;">
-                <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="35" height="35" />  
-                <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=kali" alt="Kali" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=mint" alt="Mint" width="35" height="35" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png?20091128031656" alt="Fedora" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=c" alt="C" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=python" alt="Python" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="35" height="35" />
+                <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="33" height="33" /><span>&nbsp;</span>  
+                <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=kali" alt="Kali" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=mint" alt="Mint" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png?20091128031656" alt="Fedora" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=c" alt="C" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=python" alt="Python" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="33" height="33" />
             </div>
-          <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=Wl0cKk&rank_icon=github&show_icons=true&theme=tokyonight" alt="github stats" width="400"/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wl0cKk&theme=tokyonight&size_weight=0.1&count_weight=0.2&layout=compact" alt="Top Langs" width="300"/>
-          </p>
+            <p align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=Wl0cKk&rank_icon=github&show_icons=true&theme=tokyonight" alt="github stats" width="400"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wl0cKk&theme=tokyonight&size_weight=0.1&count_weight=0.2&layout=compact" alt="Top Langs" width="300"/>
+            </p>
             <div style="flex: 1;">
-                <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=git" alt="Git" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="35" height="35" />
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwBIzoVFfmX3NPoSIrbGhmCXb4KDgbnZKA1zFltVc9tcpOjELPV1U37sGNf3l0W_gzCs&usqp=CAU" alt="Insomnia" width="35" height="35" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/600px-Wireshark_icon_new.png?20230509085415" alt="Wireshark" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="35" height="35" />
-                <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="35" height="35" />
+                <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=git" alt="Git" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwBIzoVFfmX3NPoSIrbGhmCXb4KDgbnZKA1zFltVc9tcpOjELPV1U37sGNf3l0W_gzCs&usqp=CAU" alt="Insomnia" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/600px-Wireshark_icon_new.png?20230509085415" alt="Wireshark" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="33" height="33" /><span>&nbsp;</span>
+                <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="33" height="33" /><span>&nbsp;</span>
             </div>
         </div>
     </div>
 </div>
 </br></br>
-<div align="center" style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/uladzimir-kandratsiuk-b77505295/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30"/></a>
-    <a href="https://leetcode.com/u/amnesia10/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=FFA116" alt="LeetCode logo" title="LeetCode" height="30"/></a>
-    <a href="https://gist.github.com/Wl0cKk" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/GitHub%20Gist-282C34?logo=github&logoColor=white" alt="GitHub Gist logo" title="GitHub Gist" height="30" /></a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/uladzimir-kandratsiuk-b77505295/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30"/></a>
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://leetcode.com/u/amnesia10/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=FFA116" alt="LeetCode logo" title="LeetCode" height="30"/></a>
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://gist.github.com/Wl0cKk" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub%20Gist-282C34?logo=github&logoColor=white" alt="GitHub Gist logo" title="GitHub Gist" height="30"/></a>
 </div>
-</br>
 
 ### [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/submissions/1367017433/?envType=daily-question&envId=2024-08-24)
 ```ruby
