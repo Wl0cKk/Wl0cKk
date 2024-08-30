@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=32&duration=4000&pause=1500&color=7289DA&center=true&vCenter=true&random=true&width=500&height=100&lines=Welcome;I'm+aspiring+Dev%2FEngineer" alt="Typing SVG" /></a>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A690B8,100:BF90F3&section=header&reversal=true"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=32&duration=4000&pause=1500&color=7289DA&center=true&vCenter=true&random=true&width=500&height=100&lines=Welcome;I'm+aspiring+Dev%2FEngineer" alt="Typing SVG" /></a>
 </p>
 
 [list of badges]: # (https://naereen.github.io/badges/)
