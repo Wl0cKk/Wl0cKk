@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="85%" height="300" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A690B8,100:BF90F3&section=header&reversal=true"/>
 </p>
 <div align="center">
