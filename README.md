@@ -51,7 +51,7 @@
 </div>
 </br></br>
 <div align="center">
-    <a href="[https://discord.com/invite/your-invite-link](https://discord.com/usera/1016287707846160384)" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=7289DA" alt="Discord logo" title="Discord" height="30"/></a>
+    <a href="https://discord.com/users/1016287707846160384" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=7289DA" alt="Discord logo" title="Discord" height="30"/></a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://www.linkedin.com/in/uladzimir-kandratsiuk-b77505295/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30"/></a>
     <span>&nbsp;&nbsp;</span>
