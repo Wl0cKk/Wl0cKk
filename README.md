@@ -74,21 +74,77 @@
   </div>
 </div>
 
-### [564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/submissions/1367017433/?envType=daily-question&envId=2024-08-24)
+### [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1380482984/)
 
 ```ruby
-# @param {String} n
-# @return {String}
-def nearest_palindromic(n)
-    n_long = n.to_i
-    return "9" if n == "11"
-    return (n_long - 1).to_s if n_long < 10 || (n[0] == '1' && n[1..-1] == '0' * (n.length - 1))
-    l = n.length
-    prefix = n[0...((l + 1) / 2)]
-    return [ (prefix.to_i - 1).to_s, prefix, (prefix.to_i + 1).to_s ]
-    .map { |p| (p + p[0...(l / 2)].reverse).to_i }
-    .reject { |m| m == n_long }.min_by { |m| [ (n_long - m).abs, m ] }.to_s
+#!/usr/bin/env rspec
+require 'rspec'
+
+# @param {String[]} words
+# @param {Character[]} letters
+# @param {Integer[]} score
+# @return {Integer}
+class Solution
+    def max_score_words(words, letters, score)
+        letter_count = Hash.new(0)
+        letters.each { |ch| letter_count[ch] += 1 }
+        max_score = 0
+        (1 << words.length).times do |i|
+            current_score = 0
+            current_letter_count = Hash.new(0)
+            valid = true
+            words.each_with_index do |word, index|
+                if i & (1 << index) > 0
+                    word_count = Hash.new(0)
+                    word.each_char { |ch| word_count[ch] += 1 }
+                    word_count.each do |ch, count|
+                        current_letter_count[ch] += count
+                        if current_letter_count[ch] > letter_count[ch]
+                            valid = false
+                            break
+                        end
+                    end
+                    break unless valid
+                    word_score = word_count.sum { |ch, count| score[ch.ord - 'a'.ord] * count }
+                    current_score += word_score
+                end
+            end
+            max_score = [max_score, current_score].max if valid
+        end
+        return max_score
+    end
 end
+
+RSpec.describe Solution do
+    let(:solution) { Solution.new }
+
+    describe '#max_score_words' do
+        it 'calculates the maximum score for given words and letters' do
+            words = ["dog","cat","dad","good"]
+            letters = ["a","a","c","d","d","d","g","o","o"]
+            score = [1,0,9,5,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0]
+
+            expect(solution.max_score_words(words, letters, score)).to eq(23)
+        end
+
+        it 'calculates the maximum score for another set of words and letters' do
+            words = ["xxxz","ax","bx","cx"]
+            letters = ["z","a","b","c","x","x","x"]
+            score = [4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,10]
+
+            expect(solution.max_score_words(words, letters, score)).to eq(27)
+        end
+
+        it 'returns 0 when letters cannot form any words' do
+            words = ["leetcode"]
+            letters = ["l","e","t","c","o","d"]
+            score = [0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0]
+
+            expect(solution.max_score_words(words, letters, score)).to eq(0)
+        end
+    end
+end
+
 ```
 <div align="center">
   <p>
