@@ -33,7 +33,9 @@
               <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="33" height="33" />
           </div>
           <p>
-<!--               <img src="https://streak-stats.demolab.com/?user=Wl0cKk&theme=tokyonight" alt="GitHub Streak" /> -->
+            <img src="https://streak-stats.demolab.com/?user=Wl0cKk&theme=tokyonight" alt="GitHub Streak" width="700"/>
+          </p>
+          <p>
               <img src="https://github-readme-stats.vercel.app/api?username=Wl0cKk&rank_icon=github&show_icons=true&theme=tokyonight" alt="github stats" width="400"/>
               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wl0cKk&theme=tokyonight&layout=compact" alt="Top Langs" width="300"/>
           </p>
