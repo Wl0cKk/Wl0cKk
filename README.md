@@ -33,7 +33,7 @@
               <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="33" height="33" />
           </div>
           <p>
-            <img src="https://streak-stats.demolab.com/?user=Wl0cKk&theme=tokyonight" alt="GitHub Streak" width="700"/>
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Wl0cKk&theme=tokyonight-duo&border_radius=0&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=700&card_height=100" alt="GitHub Streak" /></a
           </p>
           <p>
               <img src="https://github-readme-stats.vercel.app/api?username=Wl0cKk&rank_icon=github&show_icons=true&theme=tokyonight" alt="github stats" width="400"/>
