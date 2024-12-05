@@ -73,26 +73,6 @@
   </div>
 </div>
 
-### [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/submissions/1396937281/?envType=daily-question&envId=2024-09-21)
-```ruby
-# @param {Integer} n
-# @return {Integer[]}
-def lexical_order(n)
-    res = Array.new
-    curr = 1
-    n.times {
-        res << curr
-        curr *= 10
-        while curr > n
-            curr /= 10
-            curr += 1
-            curr /= 10 while curr % 10 == 0
-        end
-    }
-    return res
-end
-
-```
 <div align="center">
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A690B8,100:BF90F3&section=footer&reversal=true"/>
