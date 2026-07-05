@@ -5,12 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=32&duration=4000&pause=1500&color=7289DA&center=true&vCenter=true&random=true&width=500&height=32&lines=Welcome" alt="Typing SVG" /></a>
   </p>
 
-  [list of badges]: # (https://naereen.github.io/badges/)
-  [more]: # (https://shields.io/)
-  [more and more]: # (https://github.com/Ileriayo/markdown-badges)
-  [fonts]: # (https://fonts.google.com/)
-  [running font]: # (https://readme-typing-svg.demolab.com)
-
   <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
       <div style="display: flex; flex-wrap: wrap; width: 400px;">
           <div style="flex: 1;">
@@ -19,7 +13,7 @@
               <img src="https://skillicons.dev/icons?i=kali" alt="Kali" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=mint" alt="Mint" width="33" height="33" /><span>&nbsp;</span>
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png?20091128031656" alt="Fedora" width="33" height="33" /><span>&nbsp;</span>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/960px-Fedora_logo.svg.png?_=20091128031656" alt="Fedora" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="33" height="33" /><span>&nbsp;</span>
@@ -33,12 +27,15 @@
               <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="33" height="33" />
           </div>
           <p>
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Wl0cKk&theme=tokyonight-duo&border_radius=0&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=700&card_height=100" alt="GitHub Streak reached maximum requests" /></a
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Wl0cKk&theme=tokyonight-duo&border_radius=0&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=700&card_height=100" alt="GitHub Streak" /></a>
           </p>
-          <p>
-              <img src="https://github-readme-stats.vercel.app/api?username=Wl0cKk&rank_icon=github&show_icons=true&theme=tokyonight" alt="github stats" width="400"/>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wl0cKk&theme=tokyonight&layout=compact" alt="Top Langs" width="300"/>
+          <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wl0cKk&theme=tokyonight" alt="GitHub Stats" width="400" height="195"/>
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wl0cKk&theme=tokyonight" alt="Top Languages" width="300" height="195"/>
+            <p>
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wl0cKk&theme=tokyonight" alt="Profile Details" width="700"/>
           </p>
+          </div>
           <div style="flex: 1;">
               <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=git" alt="Git" width="33" height="33" /><span>&nbsp;</span>
@@ -50,7 +47,7 @@
               <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwBIzoVFfmX3NPoSIrbGhmCXb4KDgbnZKA1zFltVc9tcpOjELPV1U37sGNf3l0W_gzCs&usqp=CAU" alt="Insomnia" width="33" height="33" /><span>&nbsp;</span>
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/600px-Wireshark_icon_new.png?20230509085415" alt="Wireshark" width="33" height="33" /><span>&nbsp;</span>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?_=20230509085415" alt="Wireshark" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="33" height="33" /><span>&nbsp;</span>
               <img src="https://skillicons.dev/icons?i=vscodium" alt="VSCodium" width="33" height="33" /><span>&nbsp;</span>
