@@ -59,19 +59,24 @@
   </div>
   </br>
   </br></br>
-  <div align="center">
-      <a href="https://discord.com/users/1016287707846160384" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=7289DA" alt="Discord logo" title="Discord" height="30"/></a>
-      <span>&nbsp;&nbsp;</span>
-      <a href="https://www.linkedin.com/in/uladzimir-kandratsiuk-b77505295/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="30"/></a>
-      <span>&nbsp;&nbsp;</span>
-      <a href="https://leetcode.com/u/amnesia10/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=FFA116" alt="LeetCode logo" title="LeetCode" height="30"/></a>
-      <span>&nbsp;&nbsp;</span>
-      <a href="https://gist.github.com/Wl0cKk" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub%20Gist-282C34?logo=github&logoColor=white" alt="GitHub Gist logo" title="GitHub Gist" height="30"/></a>
-  </div>
+<div align="center">
+  <a href="https://discord.com/users/1016287707846160384" target="_blank" style="text-decoration: none; display: inline-block; background: #282C34; padding: 3px 12px; border-radius: 4px; height: 30px; line-height: 24px; vertical-align: middle; min-width: 100px; text-align: center;">
+    <img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=7289DA" alt="Discord logo" title="Discord" height="24" style="vertical-align: middle;"/></a>
+  <a href="https://www.linkedin.com/in/uladzimir-kandratsiuk-b77505295/" target="_blank" style="text-decoration: none; display: inline-block; background: #282C34; padding: 3px 12px; border-radius: 4px; height: 30px; line-height: 24px; vertical-align: middle; min-width: 100px; text-align: center;">
+    <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="24" style="vertical-align: middle;"/></a>
+  <a href="https://leetcode.com/u/amnesia10/" target="_blank" style="text-decoration: none; display: inline-block; background: #282C34; padding: 3px 12px; border-radius: 4px; height: 30px; line-height: 24px; vertical-align: middle; min-width: 100px; text-align: center;">
+    <img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=FFA116" alt="LeetCode logo" title="LeetCode" height="24" style="vertical-align: middle;"/></a>
+  <a href="https://gist.github.com/Wl0cKk" target="_blank" style="text-decoration: none; display: inline-block; background: #282C34; padding: 3px 12px; border-radius: 4px; height: 30px; line-height: 24px; vertical-align: middle; min-width: 100px; text-align: center;">
+    <img src="https://img.shields.io/badge/GitHub%20Gist-282C34?logo=github&logoColor=white" alt="GitHub Gist logo" title="GitHub Gist" height="24" style="vertical-align: middle;"/></a>
+  <a href="https://opencollective.com/wl0ckk" target="_blank" style="text-decoration: none; display: inline-block; background: #282C34; padding: 3px 12px; border-radius: 4px; height: 30px; line-height: 24px; vertical-align: middle; min-width: 100px; text-align: center;">
+    <img src="https://img.shields.io/badge/Open%20Collective-282C34?logo=opencollective&logoColor=7FADF2" alt="Open Collective logo" title="Open Collective" height="24" style="vertical-align: middle;"/></a>
+  <a href="https://source.coop/wl0ckk" target="_blank" style="text-decoration: none; display: inline-block; background: #282C34; padding: 3px 12px; border-radius: 4px; height: 30px; line-height: 24px; vertical-align: middle; min-width: 100px; text-align: center;">
+    <img src="https://source.coop/logo/logolockup-dark.svg" alt="Source Cooperative" title="Source Cooperative" height="20" style="vertical-align: middle;"/></a>
 </div>
-
 <div align="center">
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A690B8,100:BF90F3&section=footer&reversal=true"/>
   </p>
 </div>
+
+
